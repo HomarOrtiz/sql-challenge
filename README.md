@@ -1,1 +1,3 @@
 # sql-challenge
+
+For this challenge, we were tasked with gathering the knowledge we acquired from SQL and put it to practice by researching a hypothetical company called Pewlett Hackard. As a new data engineer, we were given six csv files and were tasked with researching people whom the company employed during the 1980s and 1990s. For this project, we had to design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. In short, we will be performing data modeling, data engineering, and data analysis. 
